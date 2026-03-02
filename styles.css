@@ -27,54 +27,45 @@ body {
     aspect-ratio: 1 / 1;
 }
 
-/* RED */
+
 .red-theme .gallery {
   border-color: #c62828;
 }
 
-/* ORANGE */
 .orange-theme .gallery {
   border-color: #ef6c00;
 }
 
-/* YELLOW */
 .yellow-theme .gallery {
   border-color: #f9a825;
 }
 
-/* GREEN */
 .green-theme .gallery {
   border-color: #2e7d32;
 }
 
-/* BLUE */
 .blue-theme .gallery {
   border-color: #1565c0;
 }
 
-/* PURPLE */
 .purple-theme .gallery {
   border-color: #6a1b9a;
 }
 
-/* PINK */
 .pink-theme .gallery {
   border-color: #ffb6c1;
 }
 
-/* BROWN */
 .brown-theme .gallery {
   border-color: #6d4c41;
 }
 
-/* BLACK */
 .black-theme .gallery {
   border-color: #000000;
 }
 
-/* WHITE */
 .white-theme .gallery {
-  border-color: #e0e0e0; /* light gray so it's visible */
+  border-color: #e0e0e0; 
 }
 
 .menu {
